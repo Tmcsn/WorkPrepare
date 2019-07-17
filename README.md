@@ -1,6 +1,6 @@
 # WorkPrepare
 找工作准备
-1.LR相关算法
+### 1.LR相关算法
 2.SVM相关算法
 3.GBDT&xgboost&lightGBM相关算法
 4.机器学习非算法相关知识
